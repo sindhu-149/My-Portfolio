@@ -16,11 +16,17 @@ body::-webkit-scrollbar {
   justify-content: space-between;
   padding: 30px;
   font-size: 23px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #171c28;
   /* border:1px solid white */
 }
 .nav-sub1 {
+  font-family: 'Caveat', cursive;
   text-decoration: none;
   color: white;
+  font-size: 38px;
 }
 .nav-sub2{
   display: flex;

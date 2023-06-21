@@ -9,7 +9,7 @@ import Contact from './Contact'
 const Navbar = () => {
   return (
     <div className='nav'>
-        <a  href="#home" className='nav-sub1'>Sindhuja</a>
+        <a  href="#home" className='nav-sub1'>&lt; Sindhuja / &gt;</a>
         <div className='nav-sub2'>
             <a  href="#skill" className='nav-items'>Skills</a>
             <a  href="#project" className='nav-items'>Projects</a>

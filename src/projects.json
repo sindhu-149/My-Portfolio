@@ -1,37 +1,46 @@
 [{
-    "name":"Jobify",
-    "description":"Developed a job portal using MERN",
-    "color":"yellow",
-    "language":"react"
+    "name":"WTOM",
+    "description":"Developed website serves as a digital menu platform for restaurants",
+    "color":"blueviolet",
+    "language":"react",
+    "link":"https://github.com/sindhu-149/resturant"
 },
 {
     "name":"M-Foods",
     "description":" online food delivery website",
-    "color":"yellow",
-    "language":"react"
+    "color":"blueviolet",
+    "language":"react",
+    "link":"https://github.com/sindhu-149/M-Foods"
 },
 {
-    "name":"WTOM",
-    "description":"Developed website serves as a digital menu platform for restaurants",
-    "color":"yellow",
-    "language":"react"
+    "name":"Instagram-clone",
+    "description":"Developed instagram clone using react",
+    "color":"blueviolet",
+    "language":"react",
+    "link":"https://github.com/sindhu-149/instagram-clone"
 },
 {
-    "name":"Jobify",
-    "description":"Developed a job portal using MERN",
-    "color":"yellow",
-    "language":"react"
+    "name":"Youtube-clone",
+    "description":"Developed youtube clone using react",
+    "color":"blueviolet",
+    "language":"react",
+    "link":"https://github.com/sindhu-149/youtube-clone"
+
 },
 {
-    "name":"M-Foods",
-    "description":" online food delivery website",
-    "color":"yellow",
-    "language":"react"
+    "name":"TinDog",
+    "description":"Developed a static website while learning HTML",
+    "color":"orangered",
+    "language":"HTML",
+    "link":"https://github.com/sindhu-149/TinDog"
+
 },
 {
-    "name":"WTOM",
-    "description":"Developed website serves as a digital menu platform for restaurants",
+    "name":"Zen",
+    "description":"Sound based application using JavaScript",
     "color":"yellow",
-    "language":"react"
+    "language":"JavaScript",
+    "link":"https://github.com/sindhu-149/Zen"
+
 }
 ]

@@ -7,9 +7,12 @@ const Projects = () => {
   return (
     <div id="project" className='project pro'>
         <h1 className='head'>Projects</h1>
+
         <div className='project-grid'>
             {projects.map(a=>
+              <a className="link" href={a.link}>
             <div className='grid-items'>
+            
               <img className="repo" src={repo}></img>
               <span className='name'> {a.name}</span>
               <p>{a.description}</p>
@@ -18,7 +21,9 @@ const Projects = () => {
               <span className="language">{a.language}</span>
               </div>
              
-            </div>)}
+            </div>
+            </a>)}
+
         </div>
         <div className='git-btn'> 
         <a className='link' href='https://github.com/sindhu-149'>
