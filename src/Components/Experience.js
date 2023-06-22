@@ -3,7 +3,7 @@ import experience from '../experience.json'
 const Experience = () => {
   return (
     <div id="experience" className='project experience'>
-    <h1 className='head'>Experience</h1>
+    <h1 className='head'>Experiences</h1>
     <div className='experience-grid'>
       {experience.map(a => 
       <div  className='exp-items'>

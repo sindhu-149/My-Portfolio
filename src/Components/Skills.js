@@ -41,13 +41,6 @@ const Skills = () => {
       <FontAwesomeIcon className='skill-icons' icon={faGithub} />
       <p className="icon-names">Github</p>
       </div>
-
-      {/* <FontAwesomeIcon className='skill-icons' icon={faCss3} />
-      <FontAwesomeIcon className='skill-icons' icon={faJs} />
-      <FontAwesomeIcon className='skill-icons' icon={faReact} />
-      <FontAwesomeIcon className='skill-icons' icon={faBootstrap} />
-      <FontAwesomeIcon className='skill-icons' icon={faGit} />
-      <FontAwesomeIcon className='skill-icons' icon={faGithub} /> */}
       </div>
       <p>⚡ Develop highly interactive Front end / User Interfaces for  web  applications</p>
     </div>
