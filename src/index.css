@@ -157,14 +157,13 @@ body::-webkit-scrollbar {
   gap:15px;
 }
 .grid-items{
-  background-color: #171c28;
+  background-color: #242a38;
   width:360px;
   height:150px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   padding: 2rem;
   cursor: pointer;
   transition: all .7s ease;
-  border: 0.1px solid rgb(46, 44, 44);
 }
  
 .grid-items:hover{
@@ -240,10 +239,10 @@ body::-webkit-scrollbar {
 }
 
 .details{
-  font-size: 40px;
+  font-size: 30px;
 }
 .info2{
-  font-size: 19px;
+  font-size: 15px;
   width: 90%;
 }
 
